@@ -1,0 +1,14 @@
+{
+    "name": "Caps",
+    "version": "1.0.0",
+    "description": "Captions for all your videos",
+    "permissions": [
+        "activeTab", "tabCapture"
+    ],
+    "manifest_version": 3,
+    "author": "Burlett Software",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Caps"
+    }
+}
